@@ -61,7 +61,7 @@
   <properties>
     <java.version>17</java.version>
     <jersey.version>3.1.9</jersey.version>
-    <log4j.version>2.24.2</log4j.version>
+    <log4j.version>2.24.3</log4j.version>
     <jackson.version>2.18.1</jackson.version>
     <lucene.version>5.0.0</lucene.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
